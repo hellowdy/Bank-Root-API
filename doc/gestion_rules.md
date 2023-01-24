@@ -1,8 +1,8 @@
 # CLIENT
 - Un client possède un identifiant.
 - Le client possède un compte.
-- Le client accède à son compte.
-- Le client voit le listing des transactions.
+- Le client peut accèder à son compte.
+- Le client peut voir le listing de ses transactions.
 - Le client peut faire une transaction vers un autre compte.
 - Le client peut faire une demande de débit.
 - Le client peut faire une demande de crédit.
@@ -15,7 +15,7 @@
 - Un compte possède un numéro unique.
 - Un compte doit disposer d'un listing de toute les transactions .
 
-# ADMiN
+# ADMIN
 - L'admin peut supprimer un compte à la demande du client.
 - L'admin peut accèder au listing des comptes.
 - L'admin peut valider/refuser la demande de débit.
