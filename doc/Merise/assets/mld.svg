@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="366" height="366" viewBox="0 0 366 366" xmlns="http://www.w3.org/2000/svg">
+<rect id="frame" x="0" y="0" width="366" height="366" fill="#f7f7f7" stroke="none" stroke-width="0"/>
+
+<!-- Entity Transaction -->
+<g class="page_0_fznEPSq1 diagram_page" visibility="visible">
+	<g>
+		<rect x="55" y="26" width="82" height="25" fill="#f1b6da" stroke="#f1b6da" stroke-width="0" opacity="1"/>
+		<rect x="55" y="51" width="82" height="111" fill="#fde0ef" stroke="#fde0ef" stroke-width="0" opacity="1"/>
+		<rect x="55" y="26" width="82" height="136" fill="none" stroke="#de77ae" stroke-width="2" opacity="1"/>
+		<line x1="55" y1="51" x2="137" y2="51" stroke="#de77ae" stroke-width="1"/>
+	</g>
+	<text x="61" y="43.75" fill="#000" font-family="Verdana" font-size="12">Transaction</text>
+	<text x="60" y="68.8" fill="#000" font-family="Verdana" font-size="12">id</text>
+	<line x1="60" y1="71" x2="72" y2="71" stroke="#000" stroke-width="1"/>
+	<text x="60" y="85.8" fill="#000" font-family="Verdana" font-size="12">date</text>
+	<text x="60" y="102.8" fill="#000" font-family="Verdana" font-size="12">status</text>
+	<text x="60" y="119.8" fill="#000" font-family="Verdana" font-size="12">type</text>
+	<text x="60" y="136.8" fill="#000" font-family="Verdana" font-size="12">#id.1</text>
+	<text x="60" y="153.8" fill="#000" font-family="Verdana" font-size="12">#number</text>
+</g>
+
+<!-- Entity Admin -->
+<g class="page_0_fznEPSq1 diagram_page" visibility="visible">
+	<g>
+		<rect x="215" y="9" width="110" height="25" fill="#f1b6da" stroke="#f1b6da" stroke-width="0" opacity="1"/>
+		<rect x="215" y="34" width="110" height="145" fill="#fde0ef" stroke="#fde0ef" stroke-width="0" opacity="1"/>
+		<rect x="215" y="9" width="110" height="170" fill="none" stroke="#de77ae" stroke-width="2" opacity="1"/>
+		<line x1="215" y1="34" x2="325" y2="34" stroke="#de77ae" stroke-width="1"/>
+	</g>
+	<text x="251" y="26.75" fill="#000" font-family="Verdana" font-size="12">Admin</text>
+	<text x="220" y="51.8" fill="#000" font-family="Verdana" font-size="12">id</text>
+	<line x1="220" y1="54" x2="232" y2="54" stroke="#000" stroke-width="1"/>
+	<text x="220" y="68.8" fill="#000" font-family="Verdana" font-size="12">account number</text>
+	<text x="220" y="85.8" fill="#000" font-family="Verdana" font-size="12">firstname</text>
+	<text x="220" y="102.8" fill="#000" font-family="Verdana" font-size="12">lastname</text>
+	<text x="220" y="119.8" fill="#000" font-family="Verdana" font-size="12">phone</text>
+	<text x="220" y="136.8" fill="#000" font-family="Verdana" font-size="12">adress</text>
+	<text x="220" y="153.8" fill="#000" font-family="Verdana" font-size="12">creation date</text>
+	<text x="220" y="170.8" fill="#000" font-family="Verdana" font-size="12">permissions</text>
+</g>
+
+<!-- Entity Client -->
+<g class="page_0_fznEPSq1 diagram_page" visibility="visible">
+	<g>
+		<rect x="41" y="187" width="110" height="25" fill="#f1b6da" stroke="#f1b6da" stroke-width="0" opacity="1"/>
+		<rect x="41" y="212" width="110" height="145" fill="#fde0ef" stroke="#fde0ef" stroke-width="0" opacity="1"/>
+		<rect x="41" y="187" width="110" height="170" fill="none" stroke="#de77ae" stroke-width="2" opacity="1"/>
+		<line x1="41" y1="212" x2="151" y2="212" stroke="#de77ae" stroke-width="1"/>
+	</g>
+	<text x="79" y="204.75" fill="#000" font-family="Verdana" font-size="12">Client</text>
+	<text x="46" y="229.8" fill="#000" font-family="Verdana" font-size="12">id</text>
+	<line x1="46" y1="232" x2="58" y2="232" stroke="#000" stroke-width="1"/>
+	<text x="46" y="246.8" fill="#000" font-family="Verdana" font-size="12">account number</text>
+	<text x="46" y="263.8" fill="#000" font-family="Verdana" font-size="12">firstname</text>
+	<text x="46" y="280.8" fill="#000" font-family="Verdana" font-size="12">lastname</text>
+	<text x="46" y="297.8" fill="#000" font-family="Verdana" font-size="12">phone</text>
+	<text x="46" y="314.8" fill="#000" font-family="Verdana" font-size="12">adress</text>
+	<text x="46" y="331.8" fill="#000" font-family="Verdana" font-size="12">creation date</text>
+	<text x="46" y="348.8" fill="#000" font-family="Verdana" font-size="12">permissions</text>
+</g>
+
+<!-- Entity Account -->
+<g class="page_0_fznEPSq1 diagram_page" visibility="visible">
+	<g>
+		<rect x="217" y="204" width="106" height="25" fill="#f1b6da" stroke="#f1b6da" stroke-width="0" opacity="1"/>
+		<rect x="217" y="229" width="106" height="111" fill="#fde0ef" stroke="#fde0ef" stroke-width="0" opacity="1"/>
+		<rect x="217" y="204" width="106" height="136" fill="none" stroke="#de77ae" stroke-width="2" opacity="1"/>
+		<line x1="217" y1="229" x2="323" y2="229" stroke="#de77ae" stroke-width="1"/>
+	</g>
+	<text x="246" y="221.75" fill="#000" font-family="Verdana" font-size="12">Account</text>
+	<text x="222" y="246.8" fill="#000" font-family="Verdana" font-size="12">number</text>
+	<line x1="222" y1="249" x2="270" y2="249" stroke="#000" stroke-width="1"/>
+	<text x="222" y="263.8" fill="#000" font-family="Verdana" font-size="12">client id</text>
+	<text x="222" y="280.8" fill="#000" font-family="Verdana" font-size="12">transactions list</text>
+	<text x="222" y="297.8" fill="#000" font-family="Verdana" font-size="12">creation date</text>
+	<text x="222" y="314.8" fill="#000" font-family="Verdana" font-size="12">#id</text>
+	<text x="222" y="331.8" fill="#000" font-family="Verdana" font-size="12">#id.1</text>
+</g>
+
+<!-- Link from &quot;id&quot; (Transaction) to &quot;id&quot; (Admin) -->
+<path d="M137 132.5 C176 90 163 47.5 215 47.5" fill="none" stroke="#7fbc41" stroke-width="2"/>
+<polygon points="215 47.5 203 53.5 207 47.5 203 41.5" fill="#7fbc41" stroke-width="0"/>
+<circle cx="137" cy="132.5" r="2" stroke="#7fbc41" stroke-width="2" fill="#7fbc41"/>
+
+<!-- Link from &quot;number&quot; (Transaction) to &quot;number&quot; (Account) -->
+<path d="M137 149.5 C177 196 163.67 242.5 217 242.5" fill="none" stroke="#7fbc41" stroke-width="2"/>
+<polygon points="217 242.5 205 248.5 209 242.5 205 236.5" fill="#7fbc41" stroke-width="0"/>
+<circle cx="137" cy="149.5" r="2" stroke="#7fbc41" stroke-width="2" fill="#7fbc41"/>
+
+<!-- Link from &quot;id&quot; (Account) to &quot;id&quot; (Admin) -->
+<path d="M323 310.5 C377 179 379 47.5 325 47.5" fill="none" stroke="#7fbc41" stroke-width="2"/>
+<polygon points="325 47.5 337 41.5 333 47.5 337 53.5" fill="#7fbc41" stroke-width="0"/>
+<circle cx="323" cy="310.5" r="2" stroke="#7fbc41" stroke-width="2" fill="#7fbc41"/>
+
+<!-- Link from &quot;id&quot; (Account) to &quot;id&quot; (Client) -->
+<path d="M217 327.5 C184 276.5 195 225.5 151 225.5" fill="none" stroke="#7fbc41" stroke-width="2"/>
+<polygon points="151 225.5 163 219.5 159 225.5 163 231.5" fill="#7fbc41" stroke-width="0"/>
+<circle cx="217" cy="327.5" r="2" stroke="#7fbc41" stroke-width="2" fill="#7fbc41"/>
+</svg>
