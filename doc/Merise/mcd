@@ -1,0 +1,11 @@
+can validate, 11 Transaction, 1n Admin
+Transaction: id, date, status, type
+:
+
+Admin: id, account number, firstname, lastname, phone, adress, creation date, permissions
+can request, 11 Transaction, 1n Account
+Client: id, account number, firstname, lastname, phone, adress, creation date, permissions
+
+can create, 11 Account, 1n Admin
+Account: number, client id, transactions list, creation date
+can have, 11 Account, 1n Client
