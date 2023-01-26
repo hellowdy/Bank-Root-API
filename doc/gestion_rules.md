@@ -12,7 +12,6 @@
 - Un compte possède une date de création.
 - Un compte est possédé par un client.
 - Un compte possède un numéro unique.
-- Un compte doit disposer d'un listing de toute les transactions.
 - Un compte peut être débiteur ou créditeur.
 - Un compte posséde un listing des transactions éffectuer. 
 
