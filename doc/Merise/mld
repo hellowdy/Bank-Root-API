@@ -3,7 +3,6 @@
 Transaction: id, date, status, type, #id.1->Admin->id, #number->Account->number
 :::
 
-
 :
 Admin: id, firstname, lastname, phone, adress, creation date, permissions
 :::
